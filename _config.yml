@@ -15,21 +15,19 @@
 # in the templates via {{ site.myvariable }}.
 locale: "ja-JP"
 title: "hisaのブログ"
+title_separator: "|"
 name : "hisa"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "個人ブログ兼ポートフォリオサイト"
 twitter_username: hisa
 github_username: common-member
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
+enable_copy_code_button: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -62,8 +60,8 @@ plugins:
 
 author:
   name   : "hisa"
-  avatar : "sample_dog4-circle.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "assets/images/sample_dog4-circle.png"
+  bio: "RUNTEQ57期B<br>Ruby<br>Ruby on Rails<br>Docker<br>JavaScript"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
