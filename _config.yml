@@ -17,7 +17,7 @@ locale: "ja-JP"
 title: "hisaのブログ"
 title_separator: "|"
 name : "hisa"
-email:
+# email:
 description: "個人ブログ兼ポートフォリオサイト"
 twitter_username: hisa
 github_username: common-member
@@ -59,22 +59,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "hisa"
-  avatar : "assets/images/sample_dog4-circle.png"
+  name: "hisa"
+  avatar: "assets/images/sample_dog4-circle.png"
   bio: "RUNTEQ57期B<br>Ruby<br>Ruby on Rails<br>Docker<br>JavaScript"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/hisa_dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://x.com/hisa_dev"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/common-member"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
@@ -83,10 +83,10 @@ footer:
       url: "https://x.com/hisa_dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://x.com/hisa_dev"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/common-member"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts

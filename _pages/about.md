@@ -3,6 +3,31 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 自己紹介
+こんにちは、サイト運営者のhisaです。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+現在、プログラミングスクール「RUNTEQ」に57期生として所属し、Web系技術を中心にプログラミングを勉強しています。
+
+## スキルセット
+### フロントエンド
+* JavaScript
+* BootStrap
+* tailwind
+
+### バックエンド
+* Ruby
+* Ruby on Rails
+
+### その他
+* Docker
+* Git
+* Figma
+
+## 本サイトについて
+このサイトの目的は以下3点です。
+* 学んだことを記録する備忘録
+* 他の開発者の方との情報共有
+* 開発したWebサービスなどのポートフォリオ掲載
+
+## お問い合わせ
+ご質問やご意見がありましたら、Twitterなどでお気軽にご連絡ください。
