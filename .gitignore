@@ -24,5 +24,8 @@ pnpm-debug.log*
 .idea/
 
 # pagefind
-
 public/pagefind
+
+# Gemini CLI configurations
+.geminiignore
+GEMINI.md
